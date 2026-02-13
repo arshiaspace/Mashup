@@ -100,6 +100,9 @@ pip install yt-dlp pydub
 
 # Program 2 – Web Mashup Service
 
+## WebApp Link
+https://mashup-taupe.vercel.app/
+
 ## Frontend Features
 - Responsive UI
 - Input validation
